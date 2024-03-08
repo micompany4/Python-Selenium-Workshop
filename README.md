@@ -1,2 +1,2 @@
 # Python Selenium Workshop
- Working with selenium in python 
+ Zero to Hero! Self learning Selenium WebDriver on Python to run automated tests.
